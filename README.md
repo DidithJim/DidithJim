@@ -1,8 +1,5 @@
 ## Hi there, I'm Judith Ríos 👋
 
-<!--
-**DidithJim/DidithJim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 🎓 Recently graduated with a Master's in Full-Stack Development
 💻 Proficient in HTML5, CSS3, JavaScript, React.js
 📊 Experienced with MongoDB, MySQL and Express
