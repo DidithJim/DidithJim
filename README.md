@@ -1,7 +1,8 @@
-        <h2>Hi there, I'm Judith Ríos 👋</h2>
+        <h1>Hi there, I'm Judith Ríos 👋</h1>
 
 <section>
         <ul>
+        <h1> About Me </h1>
             <li>🎓 Recently graduated with a Master's in Full-Stack Development</li>
             <li>💻 Proficient in HTML5, CSS3, JavaScript, React.js</li>
             <li>📊 Experienced with MongoDB, MySQL and Express</li>
