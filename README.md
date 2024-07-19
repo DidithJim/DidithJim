@@ -16,12 +16,17 @@
             <li>😄 Pronouns: She/Her</li>
             <li>⚡ Fun fact: I can solve a Rubik's Cube in under a minute!</li>
         </ul>
+         <div> 
+         <h1> Technologies </h1>
+        <p> | ReactJS | Javascript | Node | HTML5 | CSS3 | MongoDB | SQL | Express | GitHub </p>
+         
+         </div>
+        
 
                 <h1> Technologies </h1>
                 <p> | ReactJS | Javascript | Node | HTML5 | CSS3 | MongoDB | SQL | Express | GitHub </p>
 
 
-        
-    </section>
+ </section>
 
    
