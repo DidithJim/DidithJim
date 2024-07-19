@@ -27,7 +27,7 @@
 
 <section>
     <h1>Technologies</h1>
-    <p>| ReactJS | Javascript | Node | HTML5 | CSS3 | MongoDB | SQL | Express | GitHub |</p>
+    <p>| ReactJS | Javascript | Node | HTML5 | CSS3 | MongoDB | SQL | Express | GitHub | Verel </p>
 </section>
 
 </body>
