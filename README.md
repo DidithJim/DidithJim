@@ -19,7 +19,7 @@
         <li>📊 Experienced with MongoDB, MySQL and Express</li>
         <li>🌱 Currently learning advanced React.js techniques</li>
         <li>🤝 Open to collaborate on exciting web development projects</li>
-        <li>📫 Reach me at judithfullsctack@gamil.com</li>
+        <li>📫 Reach me at <b>judithfullsctack@gamil.com</b></li>
         <li>😄 Pronouns: She/Her</li>
         <li>⚡ Fun fact: I can solve a Rubik's Cube in under a minute!</li>
     </ul>
