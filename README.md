@@ -14,7 +14,7 @@
     <h1>About Me</h1>
     <ul>
         <li>🎓 Recently graduated with a Master's in Full-Stack Development</li>
-        <li>💻 Proficient in HTML5, CSS3, JavaScript, React.js</li>
+        <li>💻 Proficient in HTML5, CSS3, JavaScript, React.js, TypeScript, MongoDB, SQL</li>
         <li>📊 Experienced with MongoDB, MySQL and Express</li>
         <li>🌱 Currently learning advanced React.js techniques</li>
         <li>🤝 Open to collaborate on exciting web development projects</li>
