@@ -1,7 +1,8 @@
 # Hello, I'm Judith! <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="28" />
-I'm a full-stack developer who enjoys building useful, clean, and user-friendly web apps.  
-I like turning ideas into real products, improving details in UI/UX, and learning through hands-on projects.  
-Currently focused on growing as a React and TypeScript developer, while strengthening backend and database skills.
+
+I'm a software developer who enjoys building useful, clean, and user-friendly applications.  
+I like turning ideas into real products, refining UI/UX details, and learning through hands-on projects.  
+Currently, I work as a Software Developer at Deister Software, while continuing to strengthen my backend and database skills.
 
 ## Tech Stack
 
