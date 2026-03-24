@@ -1,4 +1,7 @@
-# Hi there, I'm Judith Ríos 👋
+# Hello, I'm Judith! 👩‍💻
+<p align="left">
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="320" alt="Coding animation" />
+</p>
 
 I'm a full-stack developer who enjoys building useful, clean, and user-friendly web apps.  
 I like turning ideas into real products, improving details in UI/UX, and learning through hands-on projects.  
