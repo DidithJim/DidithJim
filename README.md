@@ -7,7 +7,7 @@ Currently focused on growing as a React and TypeScript developer, while strength
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,git,github,vercel,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,mongodb,sql,github,xml" />
 </p>
 
 ## Contact
