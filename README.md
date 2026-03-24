@@ -6,11 +6,14 @@ Currently focused on growing as a React and TypeScript developer, while strength
 
 ## Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,mongodb,sql,github,xml" />
+<p align="left">
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,mongodb,mysql,github,figma&theme=light&perline=10"
+    style="filter: saturate(1.35) contrast(1.08);"
+  />
 </p>
 
 ## Contact
 
 - 📫 `judithfullstack@gmail.com`
-- 😄 Pronouns: She/Her
+
