@@ -10,7 +10,7 @@ Currently, I work as a Software Developer at Deister Software, while continuing 
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,vue,mongodb,mysql,github,figma&theme=light&perline=8" />
 </p>
 
-## Contact
+## Contact with me
 <p align="left">
   <a href="https://www.linkedin.com/in/judith-ríos" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
