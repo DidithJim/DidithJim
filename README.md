@@ -1,4 +1,4 @@
-# Hello, I'm Judith! <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="28" />
+# Hello, I'm Judith! <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="28" />
 I'm a full-stack developer who enjoys building useful, clean, and user-friendly web apps.  
 I like turning ideas into real products, improving details in UI/UX, and learning through hands-on projects.  
 Currently focused on growing as a React and TypeScript developer, while strengthening backend and database skills.
