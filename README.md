@@ -11,6 +11,13 @@ Currently, I work as a Software Developer at Deister Software, while continuing 
 </p>
 
 ## Contact
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/judith-rios" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="mailto:judithfullstack@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+</p>
 - 📫 `judithfullstack@gmail.com`
 
