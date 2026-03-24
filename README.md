@@ -7,10 +7,7 @@ Currently, I work as a Software Developer at Deister Software, while continuing 
 ## Tech Stack
 
 <p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,mongodb,mysql,github,figma&theme=light&perline=10"
-    style="filter: saturate(1.35) contrast(1.08);"
-  />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,vue,mongodb,mysql,github,figma&theme=light&perline=8" />
 </p>
 
 ## Contact
