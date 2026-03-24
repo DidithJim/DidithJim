@@ -1,33 +1,16 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
+# Hi there, I'm Judith Ríos 👋
 
-<header>
-    <h1>Hi there, I'm Judith Ríos 👋</h1>
-</header>
+I'm a full-stack developer who enjoys building useful, clean, and user-friendly web apps.  
+I like turning ideas into real products, improving details in UI/UX, and learning through hands-on projects.  
+Currently focused on growing as a React and TypeScript developer, while strengthening backend and database skills.
 
-<section>
-    <h1>About Me</h1>
-    <ul>
-        <li>🎓 Recently graduated with a Master's in Full-Stack Development</li>
-        <li>💻 Proficient in HTML5, CSS3, JavaScript, React.js, TypeScript, MongoDB, SQL</li>
-        <li>📊 Experienced with MongoDB, MySQL and Express</li>
-        <li>🌱 Currently learning advanced React.js techniques</li>
-        <li>🤝 Open to collaborate on exciting web development projects</li>
-        <li>📫 Reach me at <b>judithfullsctack@gamil.com</b></li>
-        <li>😄 Pronouns: She/Her</li>
-        <li>⚡ Fun fact: I can solve a Rubik's Cube in under a minute!</li>
-    </ul>
-</section>
+## Tech Stack
 
-<section>
-    <h1>Technologies</h1>
-    <p>| ReactJS | Javascript | Node | HTML5 | CSS3 | MongoDB | SQL | Express | GitHub | Vercel </p>
-</section>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,git,github,vercel,vscode" />
+</p>
 
-</body>
-</html>
+## Contact
+
+- 📫 `judithfullstack@gmail.com`
+- 😄 Pronouns: She/Her
