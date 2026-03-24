@@ -1,7 +1,4 @@
-# Hello, I'm Judith! 👩‍💻
-<p align="left">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="320" alt="Coding animation" />
-</p>
+# Hello, I'm Judith! <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="28" />
 
 I'm a full-stack developer who enjoys building useful, clean, and user-friendly web apps.  
 I like turning ideas into real products, improving details in UI/UX, and learning through hands-on projects.  
