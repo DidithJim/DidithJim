@@ -8,7 +8,7 @@ Currently, I work as a Software Developer at Deister Software, while continuing 
 
 <p align="left">
   <img
-    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,mongodb,mysql,sql,github,figma&theme=light&perline=10"
+    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,mongodb,mysql,github,figma&theme=light&perline=10"
     style="filter: saturate(1.35) contrast(1.08);"
   />
 </p>
